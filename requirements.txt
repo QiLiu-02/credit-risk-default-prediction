@@ -1,0 +1,12 @@
+# Tested with Python 3.13. Versions below are the ones the results were produced with.
+pandas>=3.0
+numpy>=2.5
+scipy>=1.18
+matplotlib>=3.11
+seaborn>=0.13
+scikit-learn>=1.9
+imbalanced-learn>=0.14
+shap>=0.52
+joblib>=1.6
+jupyter>=1.1
+nbformat>=5.11

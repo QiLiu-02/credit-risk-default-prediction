@@ -1,0 +1,13 @@
+# Data (Kaggle terms: don't redistribute; files are large)
+data/*.csv
+data/*.zip
+
+# Python / Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+
+# Saved models (regenerate by running notebooks/04_modeling.ipynb)
+models/*.joblib
